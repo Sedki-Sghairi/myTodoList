@@ -11,17 +11,17 @@ const todosData = [
 	},
 	{
 		id: 3,
-		text: 'Clean gecko tank',
+		text: 'Clean car',
 		completed: false
 	},
 	{
 		id: 4,
-		text: 'Mow lawn',
+		text: 'barra le dentist',
 		completed: true
 	},
 	{
 		id: 5,
-		text: 'Catch up on Arrested Development',
+		text: 'workout',
 		completed: false
 	}
 ];
